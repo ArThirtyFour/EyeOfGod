@@ -1,0 +1,2 @@
+API_TOKEN = "___TELEGRAM_API_TOKEN___"
+RapidAPI_Key = "___RAPIDAPI_API_KEY___"
